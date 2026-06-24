@@ -47,6 +47,10 @@ body{
     display: inline;
 }
 
+.height-local{
+    height:60%;
+}
+
 .social-links a{
     text-decoration: none;
 }
